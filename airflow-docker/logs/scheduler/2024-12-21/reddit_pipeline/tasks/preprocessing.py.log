@@ -823,3 +823,63 @@
 [2024-12-21T11:32:33.749+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:32:33.749+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
 [2024-12-21T11:32:33.761+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
 [2024-12-21T11:32:33.772+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.031 seconds
+[2024-12-21T11:33:03.812+0000] {processor.py:186} INFO - Started process (PID=10828) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:33:03.813+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:33:03.815+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:33:03.815+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:33:03.826+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:33:03.841+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.034 seconds
+[2024-12-21T11:33:33.912+0000] {processor.py:186} INFO - Started process (PID=10896) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:33:33.913+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:33:33.914+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:33:33.914+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:33:33.926+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:33:33.938+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.031 seconds
+[2024-12-21T11:34:04.057+0000] {processor.py:186} INFO - Started process (PID=10964) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:34:04.058+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:34:04.059+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:34:04.059+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:34:04.070+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:34:04.082+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.031 seconds
+[2024-12-21T11:34:34.792+0000] {processor.py:186} INFO - Started process (PID=11023) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:34:34.796+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:34:34.797+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:34:34.797+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:34:34.812+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:34:34.825+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.040 seconds
+[2024-12-21T11:35:05.904+0000] {processor.py:186} INFO - Started process (PID=11090) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:35:05.905+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:35:05.906+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:35:05.906+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:35:05.917+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:35:05.930+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.031 seconds
+[2024-12-21T11:35:36.062+0000] {processor.py:186} INFO - Started process (PID=11153) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:35:36.063+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:35:36.066+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:35:36.065+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:35:36.080+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:35:36.096+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.040 seconds
+[2024-12-21T11:36:06.221+0000] {processor.py:186} INFO - Started process (PID=11221) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:36:06.222+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:36:06.223+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:36:06.223+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:36:06.237+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:36:06.251+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.035 seconds
+[2024-12-21T11:36:36.744+0000] {processor.py:186} INFO - Started process (PID=11289) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:36:36.747+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:36:36.749+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:36:36.749+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:36:36.764+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:36:36.778+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.044 seconds
+[2024-12-21T11:37:06.966+0000] {processor.py:186} INFO - Started process (PID=11357) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:37:06.968+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:37:06.969+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:37:06.969+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:37:06.982+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:37:06.996+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.040 seconds
+[2024-12-21T11:37:37.194+0000] {processor.py:186} INFO - Started process (PID=11425) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:37:37.195+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:37:37.196+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:37:37.196+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:37:37.207+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:37:37.221+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.033 seconds
+[2024-12-21T11:38:07.367+0000] {processor.py:186} INFO - Started process (PID=11493) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:38:07.368+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:38:07.370+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:38:07.369+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:38:07.384+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:38:07.399+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.040 seconds
+[2024-12-21T11:38:37.814+0000] {processor.py:186} INFO - Started process (PID=11561) to work on /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:38:37.815+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py for tasks to queue
+[2024-12-21T11:38:37.817+0000] {logging_mixin.py:190} INFO - [2024-12-21T11:38:37.816+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:38:37.825+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py
+[2024-12-21T11:38:37.837+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/preprocessing.py took 0.031 seconds
