@@ -3521,3 +3521,27 @@
 [2025-01-13T20:09:14.734+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:09:14.733+0000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event to 2025-01-12 00:00:00+00:00, run_after=2025-01-13 00:00:00+00:00
 [2025-01-13T20:09:14.739+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:09:14.739+0000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event_from_classic to 2025-01-12 00:00:00+00:00, run_after=2025-01-13 00:00:00+00:00
 [2025-01-13T20:09:14.757+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py took 0.578 seconds
+[2025-01-13T20:09:45.758+0000] {processor.py:186} INFO - Started process (PID=1068) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:09:45.758+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py for tasks to queue
+[2025-01-13T20:09:45.761+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:09:45.760+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:09:46.270+0000] {processor.py:925} INFO - DAG(s) 'read_dataset_event_from_classic', 'read_dataset_event' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:09:46.291+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:09:46.291+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-13T20:09:46.327+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:09:46.327+0000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event to 2025-01-12 00:00:00+00:00, run_after=2025-01-13 00:00:00+00:00
+[2025-01-13T20:09:46.335+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:09:46.334+0000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event_from_classic to 2025-01-12 00:00:00+00:00, run_after=2025-01-13 00:00:00+00:00
+[2025-01-13T20:09:46.353+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py took 0.600 seconds
+[2025-01-13T20:10:17.232+0000] {processor.py:186} INFO - Started process (PID=1138) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:10:17.233+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py for tasks to queue
+[2025-01-13T20:10:17.236+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:17.235+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:10:17.737+0000] {processor.py:925} INFO - DAG(s) 'read_dataset_event_from_classic', 'read_dataset_event' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:10:17.756+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:17.756+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-13T20:10:17.780+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:17.780+0000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event to 2025-01-12 00:00:00+00:00, run_after=2025-01-13 00:00:00+00:00
+[2025-01-13T20:10:17.785+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:17.785+0000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event_from_classic to 2025-01-12 00:00:00+00:00, run_after=2025-01-13 00:00:00+00:00
+[2025-01-13T20:10:17.801+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py took 0.574 seconds
+[2025-01-13T20:10:48.512+0000] {processor.py:186} INFO - Started process (PID=1205) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:10:48.514+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py for tasks to queue
+[2025-01-13T20:10:48.517+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:48.516+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:10:49.053+0000] {processor.py:925} INFO - DAG(s) 'read_dataset_event', 'read_dataset_event_from_classic' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-01-13T20:10:49.075+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:49.075+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-13T20:10:49.098+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:49.098+0000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event to 2025-01-12 00:00:00+00:00, run_after=2025-01-13 00:00:00+00:00
+[2025-01-13T20:10:49.103+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:49.103+0000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event_from_classic to 2025-01-12 00:00:00+00:00, run_after=2025-01-13 00:00:00+00:00
+[2025-01-13T20:10:49.130+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py took 0.623 seconds

@@ -3058,3 +3058,13 @@ ModuleNotFoundError: No module named 'sklearn'
 [2025-01-13T20:09:27.813+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:09:27.813+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/training.py
 [2025-01-13T20:09:27.824+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/training.py
 [2025-01-13T20:09:27.835+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/training.py took 0.030 seconds
+[2025-01-13T20:09:58.262+0000] {processor.py:186} INFO - Started process (PID=1093) to work on /opt/airflow/dags/reddit_pipeline/tasks/training.py
+[2025-01-13T20:09:58.263+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/training.py for tasks to queue
+[2025-01-13T20:09:58.265+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:09:58.265+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/training.py
+[2025-01-13T20:09:58.279+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/training.py
+[2025-01-13T20:09:58.290+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/training.py took 0.033 seconds
+[2025-01-13T20:10:28.602+0000] {processor.py:186} INFO - Started process (PID=1162) to work on /opt/airflow/dags/reddit_pipeline/tasks/training.py
+[2025-01-13T20:10:28.604+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/reddit_pipeline/tasks/training.py for tasks to queue
+[2025-01-13T20:10:28.607+0000] {logging_mixin.py:190} INFO - [2025-01-13T20:10:28.606+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_pipeline/tasks/training.py
+[2025-01-13T20:10:28.623+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_pipeline/tasks/training.py
+[2025-01-13T20:10:28.636+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/reddit_pipeline/tasks/training.py took 0.039 seconds
